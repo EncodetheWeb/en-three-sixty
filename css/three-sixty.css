@@ -1,0 +1,40 @@
+/*.action{
+	display:block;
+}
+
+.three-sixty-block{
+	display:none;
+} */
+
+#three-sixty-wrapper img{
+    width: 350px;
+	position: absolute;
+}
+
+#three-sixty-range{
+	position: relative;
+    z-index: 1;
+}
+
+.pointer-circle{
+	position: relative;
+	border-radius:200px;
+}
+
+.pointer{    
+	position: absolute;
+    z-index: 10;
+}
+
+.pointer li{
+	position: relative;
+    left: 50px;
+    top: 10px;
+    background-color: #292929;
+    border-radius: 6px;
+    color: #fff;
+    width: 100px;
+    min-height: 75px;
+    padding: 15px;
+    list-style: none;
+}
