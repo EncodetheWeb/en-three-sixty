@@ -1,17 +1,18 @@
-/*.action{
-	display:block;
-}
-
-.three-sixty-block{
-	display:none;
-} */
-
-#three-sixty-wrapper img{
+#three-sixty-wrapper1 img{
     width: 350px;
 	position: absolute;
 }
 
 #three-sixty-range{
+	
+}
+
+#three-sixty-wrapper5 img{
+    width: 350px;
+	position: absolute;
+}
+
+#three-sixty-range2{
 	position: relative;
     z-index: 1;
 }
@@ -30,9 +31,7 @@
 	position: relative;
     left: 40px;
     top: -40px;
-    background-color: #292929;
     border-radius: 6px;
-    color: #fff;
     width: 100px;
     min-height: 75px;
     padding: 15px;

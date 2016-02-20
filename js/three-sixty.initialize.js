@@ -1,7 +1,5 @@
 $(function () {
-	j$ = jQuery.noConflict();
-    j$('.three-sixty').threeSixty({pointers: {
-		addPointers: 'true', 
+    $('.three-sixty').threeSixty({pointers: {
 		pointer1:{
 				top:	'10px',
 				left:	'80px',
@@ -37,5 +35,15 @@ $(function () {
 		pointer9:	{
 				top:	'150px',
 				left:	'85px',
-		}}});
+		},
+		addPointers: 'true',
+		background: '#ccff00',
+		detailBackground: '#000',
+		color: '#fff'
+		}});
+	
+	j$('.three-sixty2').threeSixty();
+	
+	//$('.three-sixty2').threeSixty({background: 'lerp'});
+	
 });
