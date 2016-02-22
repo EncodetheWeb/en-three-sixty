@@ -52,7 +52,7 @@ $('.three-sixty').threeSixty();
 ###Initialize a slider with one pointers
 
 Wrap in `<div>` with class `"en-wrap"`
-Add `<ul>` with class `"pointers"`
+Add `<ul>` with class `"pointer"`
 
 ####HTML
 ```sh
