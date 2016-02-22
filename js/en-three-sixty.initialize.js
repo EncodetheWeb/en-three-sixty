@@ -37,13 +37,19 @@ $(function () {
 				left:	'85px',
 		},
 		addPointers: 'true',
-		background: '#ccff00',
+		background: 'rgb(0, 135, 255)',
 		detailBackground: '#000',
 		color: '#fff'
 		}});
 	
-	j$('.three-sixty2').threeSixty();
-	
-	//$('.three-sixty2').threeSixty({background: 'lerp'});
-	
+	$('.three-sixty2').threeSixty({pointers: {
+		pointer1:{
+				top:	'100px',
+				left:	'70px',
+			},
+		addPointers: 'true',
+		background: 'rgb(123, 25, 25)',
+		detailBackground: 'rgb(115, 115, 115)',
+		color: '#eee'
+		}});	
 });

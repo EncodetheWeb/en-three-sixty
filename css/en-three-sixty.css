@@ -1,13 +1,4 @@
-#three-sixty-wrapper1 img{
-    width: 350px;
-	position: absolute;
-}
-
-#three-sixty-range{
-	
-}
-
-#three-sixty-wrapper5 img{
+.en-wrap img{
     width: 350px;
 	position: absolute;
 }
@@ -22,12 +13,12 @@
 	border-radius:200px;
 }
 
-.pointer{    
+.en-wrap > ul{    
 	position: absolute;
     z-index: 10;
 }
 
-.pointer li{
+.en-wrap > ul li{
 	position: relative;
     left: 40px;
     top: -40px;
