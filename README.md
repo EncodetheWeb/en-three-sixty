@@ -70,7 +70,8 @@ $('.three-sixty').threeSixty({
 		pointer1:{
 				top:	'10px',
 				left:	'80px',
-			}
+			},
+	addPointers: 'true'
 		});
 ```
 
