@@ -81,7 +81,7 @@ Unzip and open demo.html
 Demo links coming soon.
 
 ## TODO
-In process of adding a loader.
+In process of adding a loader as well as making a WordPress Plugin.
 
 ## Credits
 
