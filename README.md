@@ -65,7 +65,8 @@ Add `<ul>` with class `"pointers"`
 ####JS
 
 ```sh
-$('.three-sixty').threeSixty({pointers: {
+$('.three-sixty').threeSixty({
+	pointers: {
 		pointer1:{
 				top:	'10px',
 				left:	'80px',
