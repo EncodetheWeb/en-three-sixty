@@ -72,7 +72,7 @@ $('.three-sixty').threeSixty({
 				left:	'80px',
 			},
 	addPointers: 'true'
-		});
+});
 ```
 
 ## Demos
