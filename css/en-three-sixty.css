@@ -3,11 +3,6 @@
 	position: absolute;
 }
 
-#three-sixty-range2{
-	position: relative;
-    z-index: 1;
-}
-
 .pointer-circle{
 	position: relative;
 	border-radius:200px;
