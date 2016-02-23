@@ -76,6 +76,13 @@ $('.three-sixty').threeSixty({
 });
 ```
 
+## Mobile
+Compatible with [jQuery UI Touch Punch](http://touchpunch.furf.com/)
+Just add this line in the header:
+```sh
+<script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
+```
+
 ## Demos
 Unzip and open demo.html
 
