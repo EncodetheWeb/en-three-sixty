@@ -90,7 +90,8 @@ Unzip and open **demo.html**
 
 ## TODO
 - Fix Pointers for touch functionality
-- In process of adding a loader as well as making a WordPress Plugin.
+- Adding a loader-
+- Making a WordPress Plugin
 
 ## Credits
 
