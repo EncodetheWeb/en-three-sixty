@@ -12,6 +12,7 @@ Link images together to create three sixty degrees feel as well as 'pointers' to
         |-- jquery-2-1-3.min.js
  |-- css
         |-- en-three-sixty.css
+        |-- jquery-ui.css
 ```
 
 ## Options
@@ -49,7 +50,7 @@ Wrap images in `<div>` with class `"en-wrap"`
 $('.three-sixty').threeSixty();
 ```
 
-###Initialize a slider with one pointers
+###Initialize a slider with Options
 
 Wrap in `<div>` with class `"en-wrap"`
 Add `<ul>` with class `"pointer"`
