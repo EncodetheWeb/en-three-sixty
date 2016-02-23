@@ -84,12 +84,13 @@ Just add this line in the header:
 ```
 
 ## Demos
-Unzip and open demo.html
+Unzip and open **demo.html**
 
-Demo links coming soon.
+[Check here for live demos](http://encodetheweb.com/en/en-three-sixty)
 
 ## TODO
-In process of adding a loader as well as making a WordPress Plugin.
+- Fix Pointers for touch functionality
+- In process of adding a loader as well as making a WordPress Plugin.
 
 ## Credits
 
