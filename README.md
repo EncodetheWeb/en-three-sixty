@@ -89,8 +89,7 @@ Unzip and open **demo.html**
 [Check here for live demos](http://encodetheweb.com/en/en-three-sixty)
 
 ## TODO
-- Fix Pointers for touch functionality
-- Adding a loader-
+- Adding a loader
 - Making a WordPress Plugin
 
 ## Credits
