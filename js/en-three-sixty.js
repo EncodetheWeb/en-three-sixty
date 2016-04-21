@@ -133,12 +133,12 @@ function pointers(x){
 		$('#three-sixty-wrapper'+ init + ' .en-wrap ul a.pointer-circle').css({width: x.pointers.width});
 		$('#three-sixty-wrapper'+ init + ' .en-wrap ul a.pointer-circle').css({height: x.pointers.height});
 		
-		var i = 0;				
-		var counter = -1;
+		var i = -1;				
+		var counter = 0;
 		
 		//Options are only created by user - there are no Defaults for Pointers!
 		for (i in options.pointers) {
-			$('.pointer-circle:eq(' + counter + ')').css({
+			$('#three-sixty-wrapper'+ init + ' .en-wrap ul .pointer-circle:eq(' + counter + ')').css({
 				top : options.pointers[i].top,
 				left : options.pointers[i].left
 			});
