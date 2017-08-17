@@ -1,4 +1,4 @@
-# Encode Three Sixty Slider
+# Three Sixty Slider
 
 ## General
 Link images together to create three sixty degrees feel as well as 'pointers' to add detailed information to images. Great for products. Uses jQuery and jQuery UI Slider.
