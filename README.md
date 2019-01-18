@@ -1,9 +1,9 @@
-# Three Sixty Slider
+# Three Sixty Slider #
 
-## General
+## General ##
 Link images together to create three sixty degrees feel as well as 'pointers' to add detailed information to images. Great for products. Uses jQuery and jQuery UI Slider.
 
-## Structure
+## Structure ##
 
 ```sh
  |-- js
@@ -15,7 +15,7 @@ Link images together to create three sixty degrees feel as well as 'pointers' to
         |-- jquery-ui.css
 ```
 
-## Options
+## Options ##
 
 | Property      | Type          | Default       | Description   |
 | ------------- | ------------- | ------------- |-------------- |
@@ -31,31 +31,31 @@ Link images together to create three sixty degrees feel as well as 'pointers' to
 | pointers.pointerX.top       | string       | -         | X being the number of the pointer. You must specificy pointerX top and/or left position (Eg. top : '50px') |
 | pointers.pointerX.left       | string       | -         | X being the number of the pointer. You must specificy pointerX top and/or left position (Eg. left : '150px') |
 
-## Usage
+## Usage ##
 
-###Initialize a slider with defaults
+##### Initialize a slider with defaults #####
 
 Wrap images in `<div>` with class `"en-wrap"`
 
-####HTML
+#### HTML ####
 ```sh
 <div class="en-wrap">
 <img src="img/Photo 4.png" class="three-sixty" />
 </div>
 ```
 
-####JS
+#### JS ####
 
 ```sh
 $('.three-sixty').threeSixty();
 ```
 
-###Initialize a slider with Options
+### Initialize a slider with Options ###
 
 Wrap in `<div>` with class `"en-wrap"`
 Add `<ul>` with class `"pointer"`
 
-####HTML
+#### HTML ####
 ```sh
 <div class="en-wrap">
 <ul class="pointer"><li>Lorem ipsum dolor sit amet, sea cu vidisse facilis maluisset.</li></ul>
@@ -63,7 +63,7 @@ Add `<ul>` with class `"pointer"`
 </div>
 ```
 
-####JS
+#### JS ####
 
 ```sh
 $('.three-sixty').threeSixty({
@@ -76,21 +76,19 @@ $('.three-sixty').threeSixty({
 });
 ```
 
-## Mobile
+## Mobile ##
 Compatible with [jQuery UI Touch Punch](http://touchpunch.furf.com/)
 Just add this line in the header:
 ```sh
 <script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
 ```
 
-## Demos
+## Demos ##
 Unzip and open **demo.html**
 
-[Check here for live demos](http://encodetheweb.com/en/en-three-sixty)
 
-## TODO
+## TODO ##
 - Adding a loader
-- Making a WordPress Plugin
 
 ## Credits
 
