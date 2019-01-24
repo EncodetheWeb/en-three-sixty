@@ -84,6 +84,11 @@ Just add this line in the header:
 ```
 
 ## Demos ##
+
+### CodePen ### 
+[Demo](https://codepen.io/platinumjay/pen/zevEmX)
+
+### Download ###
 Unzip and open **demo.html**
 
 
