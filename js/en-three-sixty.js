@@ -1,9 +1,10 @@
 /*
- * En-Three-Sixty Slider with Pointers
+ * Three-Sixty Slider with Pointers
  * With jQuery and jQuery UI
- * Encode Web Projects
- * http://encodetheweb.com/en/encode-projects/
- * Version 1.0.1
+ * Jayson Exel
+ * http://jayexel.com
+ * http://github.com/PlatinumJay
+ * Version 1.0.2
  */
 
 (function ( $ ) {
