@@ -93,7 +93,10 @@ Unzip and open **demo.html**
 
 
 ## TODO ##
-- Adding a loader
+- Add a loader.
+- Update styles for slider.
+- Allow slide on mouse drag.
+- Update to work with jQuery 3.x.
 
 ## Credits
 
